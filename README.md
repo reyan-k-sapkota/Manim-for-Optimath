@@ -53,4 +53,4 @@ Follow along for more mathematical animations, and explore the source code here 
 
 ---
 
-*Optimath — See the mathematics behind the concepts.*
+*Optimath — Your daily dose of Math and Statistics.*

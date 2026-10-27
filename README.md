@@ -1,14 +1,15 @@
-# Optimath 
+# Optimath 📐
 
 ### Making Mathematics Visual.
 
 **Optimath** is an educational initiative dedicated to making mathematics, statistics, machine learning, and engineering concepts easier to understand through mathematical animation.
 
-This repository contains the **Python source code used to create the animations featured on the Optimath Instagram page**. Using [Manim](https://www.manim.community/), complex equations, abstract mathematical ideas, and technical concepts are transformed into visual explanations.
+This repository contains the **Python source code used to create the animations featured on the Optimath social media pages**. Using [Manim](https://www.manim.community/), complex equations, abstract mathematical ideas, and technical concepts are transformed into visual explanations.
 
 The idea is simple: **make abstract concepts easier to see, explore, and understand.**
 
 📸 **Instagram:** [@theoptimath](https://www.instagram.com/theoptimath/)  
+🎵 **TikTok:** [@theoptimath](https://www.tiktok.com/@theoptimath?_r=1&_t=ZS-9Aua11ffm3p)  
 💻 **GitHub:** [Manim-for-Optimath](https://github.com/reyan-k-sapkota/Manim-for-Optimath)
 
 ---
@@ -47,8 +48,8 @@ Optimath is an ongoing exploration of how mathematics and technical subjects can
 
 Follow along for more mathematical animations, and explore the source code here on GitHub.
 
-📸 **Follow on Instagram:** [@theoptimath](https://www.instagram.com/theoptimath/)
-📸 **Follow on Instagram:** [@theoptimath](https://www.tiktok.com/@theoptimath?_r=1&_t=ZS-9Aua11ffm3p)
+📸 **Instagram:** [@theoptimath](https://www.instagram.com/theoptimath/)  
+🎵 **TikTok:** [@theoptimath](https://www.tiktok.com/@theoptimath?_r=1&_t=ZS-9Aua11ffm3p)
 
 ---
 
